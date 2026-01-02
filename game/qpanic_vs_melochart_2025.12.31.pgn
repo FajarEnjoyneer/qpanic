@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.31"]
+[Round "?"]
+[White "qpanic"]
+[Black "melochart"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1617"]
+[BlackElo "1519"]
+[Termination "qpanic won by checkmate"]
+[ECO "A25"]
+[EndTime "19:24:41 GMT+0000"]
+[Link "https://www.chess.com/game/live/161522223869?username=qpanic"]
+
+1. c4 e5 2. Nc3 Nc6 3. e4 Nf6 4. Nf3 d6 5. d4 Be7 6. d5 Nb8 7. Be3 Bg4 8. Be2
+Nbd7 9. b4 a5 10. b5 b6 11. a4 O-O 12. Nd2 Bxe2 13. Qxe2 Re8 14. Rg1 Nf8 15. h4
+N6d7 16. g4 Bxh4 17. Rh1 Bg5 18. Nf3 Bf4 19. O-O-O g5 20. Rh6 Kg7 21. Rdh1 Nf6
+22. Nxg5 Bxg5 23. Bxg5 Ng6 24. Rxh7+ Nxh7 25. Bxd8 Raxd8 26. g5 Nxg5 27. Qg4 f6
+28. Ne2 Rh8 29. Rxh8 Nxh8 30. Ng3 Nf7 31. Nf5+ Kg6 32. Ne7+ Kg7 33. Qh5 Nxe4 34.
+Qg6+ Kf8 35. Nf5 Neg5 36. Qg7+ Ke8 37. Qxf6 Kd7 38. Qe7+ Kc8 39. c5 bxc5 40. b6
+Rd7 41. Qxd7+ Kxd7 42. b7 Ne4 43. b8=Q Neg5 44. Ng7 e4 45. Qe8# 1-0
