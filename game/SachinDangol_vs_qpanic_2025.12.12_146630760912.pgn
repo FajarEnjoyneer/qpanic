@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.12"]
+[Round "?"]
+[White "SachinDangol"]
+[Black "qpanic"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1922"]
+[BlackElo "1912"]
+[Termination "SachinDangol won by checkmate"]
+[ECO "C65"]
+[EndTime "15:39:08 GMT+0000"]
+[Link "https://www.chess.com/game/live/146630760912"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. d3 d6 6. Bg5 h6 7. Bh4 g5 8. Bg3 Bd7 9. h3 Qe7 10. Qe2 Nd4 11. Nxd4 exd4 12. Bxd7+ Qxd7 13. Nd5 Nxd5 14. exd5+ Kf8 15. O-O-O a5 16. a3 b5 17. f4 b4 18. fxg5 bxa3 19. Qg4 Qb5 20. b3 a4 21. g6 Rg8 22. Rhf1 axb3 23. Rxf7+ Ke8 24. Qe6+ Kd8 25. Bh4# 1-0

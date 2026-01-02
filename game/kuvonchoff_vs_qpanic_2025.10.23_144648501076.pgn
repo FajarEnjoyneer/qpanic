@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.23"]
+[Round "?"]
+[White "kuvonchoff"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1543"]
+[BlackElo "1612"]
+[Termination "qpanic won by checkmate"]
+[ECO "B30"]
+[EndTime "19:08:39 GMT+0000"]
+[Link "https://www.chess.com/game/live/144648501076"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e5 4. O-O Nf6 5. d3 Be7 6. Bg5 h6 7. Bh4 g5 8. Bg3 h5 9. Bxc6 dxc6 10. Bxe5 Rg8 11. Nc3 g4 12. Nh4 Nd7 13. Nf5 Nxe5 14. Qd2 Bxf5 15. exf5 Nf3+ 16. gxf3 gxf3+ 17. Kh1 Bd6 18. Rg1 Rxg1+ 19. Kxg1 Kd7 20. Ne4 Qh4 21. Nxd6 Rg8+ 22. Kf1 Qh3+ 23. Ke1 Rg1# 0-1

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.04"]
+[Round "?"]
+[White "qpanic"]
+[Black "Ark_Angel"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1486"]
+[BlackElo "1446"]
+[Termination "qpanic won by checkmate"]
+[ECO "B21"]
+[EndTime "17:10:30 GMT+0000"]
+[Link "https://www.chess.com/game/live/143900781062"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 d6 6. Nf3 a6 7. Bd3 g6 8. Bg5 Bg7 9. Qd2 O-O 10. h4 h5 11. Nd5 Ng4 12. O-O-O f6 13. Be3 Nge5 14. Nxe5 dxe5 15. Bb6 Qd7 16. g4 Qxg4 17. Rdg1 Qf3 18. Rg3 Qxh1+ 19. Qd1 Qxd1+ 20. Kxd1 Kh7 21. Nc7 Be6 22. Nxe6 Rfc8 23. c3 a5 24. Nc7 Rxc7 25. Bxc7 a4 26. Bc4 a3 27. b3 Nb8 28. Bf7 Na6 29. Bxg6+ Kh6 30. Bb6 Rc8 31. Be3# 1-0

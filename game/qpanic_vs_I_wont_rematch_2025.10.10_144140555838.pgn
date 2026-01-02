@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.10"]
+[Round "?"]
+[White "qpanic"]
+[Black "I_wont_rematch"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1552"]
+[BlackElo "1537"]
+[Termination "qpanic won by checkmate"]
+[ECO "C50"]
+[EndTime "19:23:33 GMT+0000"]
+[Link "https://www.chess.com/game/live/144140555838"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. a3 a6 7. Ba2 O-O 8. Be3 Bb6 9. Qd2 Bxe3 10. fxe3 d6 11. O-O-O Bg4 12. h3 Bh5 13. g4 Nxg4 14. hxg4 Bxg4 15. Qg2 Qd7 16. Rdg1 h5 17. Rxh5 g6 18. Nd5 Kg7 19. Rh7+ Kxh7 20. Nf6+ Kg7 21. Nxd7 Bxd7 22. Ng5 Ne7 23. Rh1 Rh8 24. Rxh8 Rxh8 25. Qf3 f6 26. Ne6+ Bxe6 27. Bxe6 c5 28. d4 b6 29. dxc5 bxc5 30. b4 cxb4 31. axb4 Nc6 32. c3 Na7 33. Qe2 Nb5 34. Kb2 Re8 35. Bd5 Rc8 36. c4 Nc7 37. Qg4 Rb8 38. Qd7+ Kh6 39. Qxc7 Rxb4+ 40. Kc3 Rb1 41. Qxd6 Rc1+ 42. Kb4 Re1 43. Qxf6 Rxe3 44. Qxa6 Kh5 45. Bf7 Rg3 46. Qe6 Rg5 47. Qh3# 1-0

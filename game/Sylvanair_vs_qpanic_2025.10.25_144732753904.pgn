@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.25"]
+[Round "?"]
+[White "Sylvanair"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[WhiteElo "1539"]
+[BlackElo "1569"]
+[Termination "qpanic won by checkmate"]
+[ECO "C55"]
+[EndTime "22:18:07 GMT+0000"]
+[Link "https://www.chess.com/game/live/144732753904"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. d4 d5 6. Bb5 exd4 7. Nxd4 Bd7 8. Re1 Bc5 9. Bxc6 Bxc6 10. f3 Qh4 11. fxe4 Bxd4+ 12. Kh1 Be5 13. exd5 Qxh2# 0-1

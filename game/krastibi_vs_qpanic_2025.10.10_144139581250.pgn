@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.10"]
+[Round "?"]
+[White "krastibi"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1487"]
+[BlackElo "1545"]
+[Termination "qpanic won - game abandoned"]
+[ECO "A25"]
+[EndTime "18:48:35 GMT+0000"]
+[Link "https://www.chess.com/game/live/144139581250"]
+
+1. c4 Nf6 2. Nc3 Nc6 3. g3 e5 4. Bg2 Bc5 5. e3 d5 6. cxd5 Nb4 7. d4 exd4 8. exd4 Be7 9. Bg5 Nbxd5 0-1

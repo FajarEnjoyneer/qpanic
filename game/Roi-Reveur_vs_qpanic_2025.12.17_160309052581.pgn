@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.17"]
+[Round "?"]
+[White "Roi-Reveur"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "120+1"]
+[WhiteElo "1850"]
+[BlackElo "1594"]
+[Termination "qpanic won by checkmate"]
+[ECO "C55"]
+[EndTime "18:26:01 GMT+0000"]
+[Link "https://www.chess.com/game/live/160309052581"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. Bxf7+ Kxf7 8. Ng5+ Kg8 9. Qxg4 d5 10. e6 Qf6 11. Bf4 h6 12. Nf3 Bxe6 13. Qg3 Nb4 14. Na3 Bf5 15. Bxc7 Rc8 16. Be5 Qf7 17. Nxd4 Bxd4 18. Bxd4 Nxc2 19. Nxc2 Rxc2 20. Rac1 Kh7 21. Rxc2 Bxc2 22. Qc3 Be4 23. f3 Bf5 24. Re1 Re8 25. g4 Rxe1+ 26. Qxe1 b6 27. gxf5 Qxf5 28. Kf2 Qh3 29. Qe2 Qxh2+ 30. Ke3 Qd6 31. Qd3+ Kh8 32. Qg6 Qxg6 33. f4 Qg3+ 34. Kd2 Qg2+ 35. Kc3 Qg3+ 36. Kb4 Qxf4 37. Kb5 Qxd4 38. b4 h5 39. a4 h4 40. Ka6 h3 41. b5 h2 42. a5 Qc4 43. axb6 Qa4+ 44. Kb7 axb6 45. Kc6 Qc4+ 46. Kxb6 h1=Q 47. Kb7 Qb1 48. Ka6 Qbxb5+ 49. Ka7 Qca4# 0-1

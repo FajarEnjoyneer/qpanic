@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.22"]
+[Round "?"]
+[White "6a8r1el"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1565"]
+[BlackElo "1588"]
+[Termination "qpanic won by resignation"]
+[ECO "C50"]
+[EndTime "06:08:37 GMT+0000"]
+[Link "https://www.chess.com/game/live/144583701886"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 Bg4 7. h3 h5 8. hxg4 hxg4 9. Nh2 g3 10. Ng4 Nxe4 11. dxe4 Qh4 12. Nf6+ gxf6 13. Bxf7+ Kxf7 14. Qb3+ Ke7 15. Qf7+ 0-1

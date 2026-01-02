@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.12"]
+[Round "?"]
+[White "Claudecot1"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1844"]
+[BlackElo "1880"]
+[Termination "qpanic won by checkmate"]
+[ECO "D00"]
+[EndTime "16:38:30 GMT+0000"]
+[Link "https://www.chess.com/game/live/145429404830"]
+
+1. d4 d5 2. e4 dxe4 3. f3 e5 4. fxe4 Qh4+ 5. Kd2 Qxe4 6. dxe5 Nc6 7. Bd3 Qxg2+ 8. Ne2 Bg4 9. Rg1 Qh3 10. Rg3 Qh5 11. Qh1 O-O-O 12. Qe4 Nh6 13. Nf4 Qxe5 14. Qxe5 Nxe5 15. Nc3 Nf3+ 16. Ke3 Bc5+ 17. Ke2 Rhe8+ 18. Kf1 Re1+ 19. Kg2 Nh4# 0-1

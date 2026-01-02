@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.19"]
+[Round "?"]
+[White "CheckBytes"]
+[Black "qpanic"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1621"]
+[BlackElo "1610"]
+[Termination "CheckBytes won by resignation"]
+[ECO "C47"]
+[EndTime "18:29:45 GMT+0000"]
+[Link "https://www.chess.com/game/live/144487988642"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d5 7. exd5 Bd6 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. Qxg7 Qe7+ 11. Be3 Be5 12. Qg4 O-O-O 13. O-O f5 14. Qa4 a6 15. Rad1 Nb6 16. Bxb6 cxb6 17. Qc4+ Kb8 18. Na4 b5 19. Qb3 bxa4 20. Qxa4 Rhg8 21. g3 f4 22. Rfe1 Bd6 23. Rxe7 Bxe7 24. Qxf4+ Bd6 25. Qf7 1-0

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.16"]
+[Round "?"]
+[White "Kingsevron29"]
+[Black "qpanic"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1340"]
+[BlackElo "1644"]
+[Termination "Kingsevron29 won by checkmate"]
+[ECO "C26"]
+[EndTime "19:17:10 GMT+0000"]
+[Link "https://www.chess.com/game/live/160226245911"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. d3 d6 5. h3 c6 6. Nf3 Kf8 7. Bg5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Rg8 11. h4 Nbd7 12. Qf3 b5 13. Bb3 a5 14. a3 a4 15. Ba2 b4 16. axb4 Bxb4 17. O-O Bxc3 18. bxc3 Ba6 19. Rfb1 Rxg5 20. hxg5 Nh7 21. Qxf7# 1-0

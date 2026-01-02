@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.16"]
+[Round "?"]
+[White "Benny-onye"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "300"]
+[WhiteElo "1607"]
+[BlackElo "1644"]
+[Termination "qpanic won by checkmate"]
+[ECO "D00"]
+[EndTime "19:40:54 GMT+0000"]
+[Link "https://www.chess.com/game/live/160227448675"]
+
+1. d4 Nf6 2. e3 d5 3. a3 Nc6 4. Nf3 Bg4 5. Be2 e6 6. b4 a6 7. Bb2 Bd6 8. Nbd2 b5 9. O-O Ne4 10. Nxe4 dxe4 11. Nd2 h5 12. Bxg4 hxg4 13. Qxg4 Bxh2+ 14. Kh1 Bd6+ 15. Kg1 Bh2+ 16. Kh1 Rh4 17. Qe2 Bd6+ 18. Kg1 Rh1+ 19. Kxh1 Qh4+ 20. Kg1 Qh2# 0-1

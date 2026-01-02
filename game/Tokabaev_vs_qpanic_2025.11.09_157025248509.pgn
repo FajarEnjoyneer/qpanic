@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.09"]
+[Round "?"]
+[White "Tokabaev"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1463"]
+[BlackElo "1881"]
+[Termination "qpanic won by resignation"]
+[ECO "C58"]
+[EndTime "18:06:32 GMT+0000"]
+[Link "https://www.chess.com/game/live/157025248509"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8. O-O Nxd5 9. d4 O-O-O 10. dxe5 h6 11. Nf3 Nc6 12. Re1 Bc5 13. Na3 g5 14. h3 g4 15. hxg4 Qxg4 16. Nh2 Qxd1 17. Rxd1 Nxe5 18. Bf4 Nxf4 0-1

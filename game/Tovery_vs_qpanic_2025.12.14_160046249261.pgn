@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.14"]
+[Round "?"]
+[White "Tovery"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "300"]
+[WhiteElo "1728"]
+[BlackElo "1670"]
+[Termination "qpanic won by checkmate"]
+[ECO "C45"]
+[EndTime "17:20:57 GMT+0000"]
+[Link "https://www.chess.com/game/live/160046249261"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 O-O 8. Nxc6 Qxc6 9. Bxc5 Qxc5 10. Qd4 Qg5 11. O-O d5 12. exd5 Bh3 13. g3 Bxf1 14. Bxf1 Qxd5 15. Qb4 Nc6 16. Qa4 Rfe8 17. Qc2 Re1 18. a3 Rae8 19. c4 Rxf1+ 20. Kxf1 Qh1# 0-1

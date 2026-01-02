@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.23"]
+[Round "?"]
+[White "qpanic"]
+[Black "ranitrana"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1617"]
+[BlackElo "1620"]
+[Termination "qpanic won by checkmate"]
+[ECO "A16"]
+[EndTime "19:48:33 GMT+0000"]
+[Link "https://www.chess.com/game/live/144649795554"]
+
+1. c4 e5 2. Nc3 c6 3. e4 Nf6 4. Nf3 Bb4 5. Nxe5 Bxc3 6. dxc3 Nxe4 7. Qg4 Ng5 8. Bxg5 f6 9. Qh5+ g6 10. Nxg6 fxg5 11. Nxh8+ Ke7 12. Qf7+ Kd6 13. O-O-O+ Kc7 14. Qxh7 Qf6 15. h4 g4 16. Bd3 Qxf2 17. Qf5 Qe3+ 18. Kb1 d5 19. Qf7+ Nd7 20. Rhe1 Qh6 21. Ng6 Kb6 22. cxd5 Nc5 23. Qf2 cxd5 24. b4 Qg7 25. Qxc5# 1-0

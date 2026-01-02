@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.08"]
+[Round "?"]
+[White "Tomture"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1455"]
+[BlackElo "1490"]
+[Termination "qpanic won by resignation"]
+[ECO "C50"]
+[EndTime "17:56:22 GMT+0000"]
+[Link "https://www.chess.com/game/live/144058614538"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 h6 6. Be3 Bb6 7. O-O O-O 8. Na4 Bxe3 9. fxe3 d5 10. exd5 Nxd5 11. e4 Nf4 12. Nxe5 Qd4+ 13. Kh1 Qxe5 14. Nc3 Be6 15. Bb5 Nd4 0-1

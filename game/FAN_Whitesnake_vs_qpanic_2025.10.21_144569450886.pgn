@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.21"]
+[Round "?"]
+[White "FAN_Whitesnake"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1542"]
+[BlackElo "1576"]
+[Termination "qpanic won by checkmate"]
+[ECO "C44"]
+[EndTime "19:31:07 GMT+0000"]
+[Link "https://www.chess.com/game/live/144569450886"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. d4 exd4 5. cxd4 Bb6 6. d5 Nce7 7. Bc4 Nf6 8. Nc3 d6 9. Bg5 Ng6 10. h4 h6 11. h5 hxg5 12. Nxg5 Ne5 13. Be2 Nfg4 14. Qd2 Bxf2+ 15. Kd1 Be3 16. Qxe3 Nxe3+ 17. Kd2 Qxg5 18. Rae1 N3c4+ 19. Kc2 Qd2+ 20. Kb3 Qxb2+ 21. Ka4 Qa3+ 22. Kb5 a6# 0-1

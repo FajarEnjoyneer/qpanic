@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.25"]
+[Round "?"]
+[White "qpanic"]
+[Black "iftol"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1872"]
+[BlackElo "1859"]
+[Termination "iftol won by resignation"]
+[ECO "A53"]
+[EndTime "23:56:28 GMT+0000"]
+[Link "https://www.chess.com/game/live/144734756248"]
+
+1. c4 e5 2. Nc3 c6 3. e4 Nf6 4. Nf3 d6 5. d4 Bg4 6. dxe5 Bxf3 7. Qxf3 Nfd7 8. Bg5 Qa5 9. Bd2 Qxe5 10. Bd3 Be7 11. O-O O-O 12. Qe2 Nc5 13. f4 Qd4+ 14. Be3 Qxd3 15. Bxc5 Qxe2 16. Nxe2 dxc5 0-1

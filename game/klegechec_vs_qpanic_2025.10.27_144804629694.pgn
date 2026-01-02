@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.27"]
+[Round "?"]
+[White "klegechec"]
+[Black "qpanic"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1907"]
+[BlackElo "1882"]
+[Termination "klegechec won by checkmate"]
+[ECO "C44"]
+[EndTime "19:07:08 GMT+0000"]
+[Link "https://www.chess.com/game/live/144804629694"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d6 4. d4 exd4 5. cxd4 Bg4 6. Bd3 Nxd4 7. O-O Nxf3+ 8. gxf3 Bh3 9. Re1 Nf6 10. e5 dxe5 11. Rxe5+ Be7 12. Qe2 Be6 13. f4 Nd7 14. Rxe6 fxe6 15. Qxe6 Nf6 16. Bb5+ Kf8 17. Nc3 Qd6 18. Qxd6 Bxd6 19. Be3 h5 20. Rd1 Rd8 21. Bd3 Ke7 22. Bg6 Ng4 23. Bc1 Bb4 24. Re1+ Kf6 25. f5 Bxc3 26. Re6# 1-0

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.10"]
+[Round "?"]
+[White "mamorocho"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "300"]
+[WhiteElo "1623"]
+[BlackElo "1613"]
+[Termination "qpanic won by resignation"]
+[ECO "D06"]
+[EndTime "18:15:31 GMT+0000"]
+[Link "https://www.chess.com/game/live/146554492288"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 Bf5 4. Nf3 e6 5. Bg5 Be7 6. e3 c5 7. Qb3 b6 8. Bxf6 Bxf6 9. cxd5 exd5 10. Nxd5 O-O 11. Nxf6+ Qxf6 12. dxc5 bxc5 13. Be2 Nd7 14. Rd1 Rab8 15. Qc3 Rxb2 16. Qxf6 Nxf6 17. O-O Rxe2 0-1

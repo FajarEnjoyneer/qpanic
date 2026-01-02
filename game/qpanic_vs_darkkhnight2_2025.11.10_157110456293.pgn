@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.10"]
+[Round "?"]
+[White "qpanic"]
+[Black "darkkhnight2"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1893"]
+[BlackElo "1899"]
+[Termination "qpanic won by checkmate"]
+[ECO "E76"]
+[EndTime "17:58:33 GMT+0000"]
+[Link "https://www.chess.com/game/live/157110456293"]
+
+1. c4 Nf6 2. Nc3 d6 3. d4 g6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 Na6 8. Bd3 Nc7 9. h4 h5 10. Rg1 Bg4 11. Be3 a6 12. Qd2 b5 13. e5 b4 14. Ne2 Nd7 15. Ng3 dxe5 16. fxe5 Nxe5 17. Nxe5 Bxe5 18. Ne4 f5 19. Nf2 e6 20. Nxg4 hxg4 21. O-O-O exd5 22. Bh6 Qxh4 23. Bxf8 Rxf8 24. cxd5 Qg3 25. Kb1 Bd4 26. Rh1 Be3 27. Qe2 Nb5 28. Bxb5 axb5 29. Qxb5 Qxg2 30. Qd7 Rf7 31. Qe8+ Kg7 32. Qh8# 1-0

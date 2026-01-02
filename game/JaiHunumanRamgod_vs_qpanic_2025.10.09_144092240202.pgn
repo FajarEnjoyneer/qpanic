@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.09"]
+[Round "?"]
+[White "JaiHunumanRamgod"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1766"]
+[BlackElo "1760"]
+[Termination "qpanic won by checkmate"]
+[ECO "C50"]
+[EndTime "15:29:58 GMT+0000"]
+[Link "https://www.chess.com/game/live/144092240202"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. Nc3 Bc5 6. O-O d6 7. h3 O-O 8. Be3 Bb6 9. Bxb6 axb6 10. Nh2 Be6 11. Bb3 Qd7 12. f4 exf4 13. Rxf4 Nd4 14. Nf3 Nxf3+ 15. Rxf3 Bxb3 16. axb3 Rxa1 17. Qxa1 c5 18. Qa4 Qe6 19. Qc4 Ra8 20. Qxe6 Ra1+ 21. Rf1 Rxf1+ 22. Kxf1 fxe6 23. Ke2 Kf7 24. Ke3 g5 25. d4 Nd7 26. d5 Kf6 27. Nb5 Ke5 28. dxe6 Kxe6 29. Nc7+ Ke5 30. Nd5 b5 31. c4 b4 32. g3 Nf6 33. Nxf6 Kxf6 34. Kf3 Ke5 35. Ke3 h5 36. Kf3 Kd4 37. h4 gxh4 38. gxh4 Kd3 39. Kf4 Kc2 40. Kg5 Kxb3 41. Kxh5 Kxb2 42. Kg6 Kc3 43. h5 b3 44. h6 b2 45. h7 b1=Q 46. h8=Q+ Kxc4 47. Qg8+ Kb4 48. Qd5 Qg1+ 49. Kf6 Qd4+ 50. Qxd4+ cxd4 51. Ke6 d3 52. Kxd6 d2 53. e5 d1=Q+ 54. Ke7 Qe2 55. e6 Kc5 56. Kd7 Qd3+ 57. Ke8 Qg6+ 58. Kd8 Qg8+ 59. Kd7 Qg7+ 60. e7 Qg4+ 61. Kd8 Qg8+ 62. e8=Q Qxe8+ 63. Kxe8 b6 64. Kf7 b5 65. Kg6 b4 66. Kf7 b3 67. Kg6 b2 68. Kf7 b1=Q 69. Kg7 Qe1 70. Kf7 Kd5 71. Kg7 Ke6 72. Kg8 Qf1 73. Kg7 Qf7+ 74. Kh8 Qf5 75. Kg7 Qf6+ 76. Kh7 Qg5 77. Kh8 Kf7 78. Kh7 Qg7# 0-1

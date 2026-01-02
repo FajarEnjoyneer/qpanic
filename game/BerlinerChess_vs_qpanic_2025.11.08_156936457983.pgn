@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.08"]
+[Round "?"]
+[White "BerlinerChess"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1911"]
+[BlackElo "1878"]
+[Termination "qpanic won by checkmate"]
+[ECO "C50"]
+[EndTime "17:45:28 GMT+0000"]
+[Link "https://www.chess.com/game/live/156936457983"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Bc5 5. d3 d6 6. Be3 Bb6 7. Qd2 a5 8. a3 O-O 9. Bg5 Be6 10. h4 Bxc4 11. dxc4 Nb8 12. h5 Nbd7 13. h6 g6 14. Nd5 Nxe4 15. Bxd8 Nxd2 16. Bf6 Nxf3+ 17. gxf3 Rfe8 18. Bg7 c6 19. Nxb6 Nxb6 20. b3 a4 21. Kd2 c5 22. Kc3 d5 23. cxd5 Nxd5+ 24. Kc4 Nc7 25. Rhe1 b5+ 26. Kxc5 Ne6+ 27. Kxb5 Nxg7 28. hxg7 Reb8+ 29. Kc4 Rc8+ 30. Kb4 Rxc2 31. Rxe5 Rb2 32. Re3 axb3 33. Rxb3 Rb8+ 34. Kc4 R2xb3 35. a4 Rxf3 36. a5 Ra8 37. a6 Rxf2 38. Kb5 Rf6 39. a7 Re6 40. Kc5 Kxg7 41. Kb5 h5 42. Kc5 h4 43. Kd5 g5 44. Rg1 Kg6 45. Rf1 Rxa7 46. Rf3 Ra5+ 47. Kd4 Rd6+ 48. Kc4 f5 49. Rb3 Ra4+ 50. Kc5 Rf6 51. Kb5 Re4 52. Kc5 f4 53. Rb8 f3 54. Rg8+ Kf5 55. Kd5 Re5+ 56. Kd4 f2 57. Rg7 Rd6+ 58. Kc3 Rc5+ 59. Kb4 Re5 60. Kc3 f1=Q 61. Kb2 Qf2+ 62. Kc3 Qf3+ 63. Kc4 Qf4+ 64. Kc3 Re3+ 65. Kb2 Qf2+ 66. Ka1 Rd1# 0-1

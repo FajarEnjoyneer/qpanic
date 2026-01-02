@@ -1,0 +1,16 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2025.11.08"]
+[Round "?"]
+[White "qpanic"]
+[Black "JSONDK"]
+[Result "0-1"]
+[TimeControl "1/86400"]
+[WhiteElo "579"]
+[BlackElo "697"]
+[Termination "JSONDK won on time"]
+[ECO "B40"]
+[EndTime "02:23:19 GMT+0000"]
+[Link "https://www.chess.com/game/daily/887356241"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 e6 4. d4 f5 5. exf5 Nxd4 6. Nxd4 cxd4 7. Qxd4 Qf6 8. Qxf6 Nxf6 9. Bd3 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 exf5 12. Bxf5 O-O 0-1

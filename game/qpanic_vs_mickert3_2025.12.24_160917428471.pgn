@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.24"]
+[Round "?"]
+[White "qpanic"]
+[Black "mickert3"]
+[Result "0-1"]
+[TimeControl "300"]
+[WhiteElo "1632"]
+[BlackElo "1534"]
+[Termination "mickert3 won by resignation"]
+[ECO "A21"]
+[EndTime "19:24:35 GMT+0000"]
+[Link "https://www.chess.com/game/live/160917428471"]
+
+1. c4 d6 2. Nc3 e5 3. e4 Nc6 4. Nf3 f5 5. d4 fxe4 6. Nxe4 exd4 7. Bd3 Qe7 8. O-O Bg4 9. Re1 O-O-O 10. Bg5 Bxf3 11. Qxf3 Ne5 12. Qh3+ Qd7 13. Qxd7+ Rxd7 14. Bc2 h6 15. Bh4 g5 16. g3 gxh4 0-1

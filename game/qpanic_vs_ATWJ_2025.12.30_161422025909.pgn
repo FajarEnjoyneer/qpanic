@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.30"]
+[Round "?"]
+[White "qpanic"]
+[Black "ATWJ"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1654"]
+[BlackElo "1524"]
+[Termination "qpanic won by checkmate"]
+[ECO "A22"]
+[EndTime "15:33:08 GMT+0000"]
+[Link "https://www.chess.com/game/live/161422025909"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bb4 4. d3 c6 5. Bd2 d5 6. a3 Bxc3 7. Bxc3 dxe4 8. Bxe5 O-O 9. d4 Bg4 10. Bxf6 Bxd1 11. Bxd8 Bc2 12. Bc7 Na6 13. Bd6 Rfd8 14. c5 b6 15. Bxa6 bxc5 16. dxc5 e3 17. Bb7 exf2+ 18. Kxf2 Rxd6 19. cxd6 Rd8 20. Re1 h6 21. Bxc6 Rxd6 22. Re8+ Kh7 23. Be4+ Bxe4 24. Rxe4 f5 25. Re2 g5 26. Nf3 g4 27. Ne5 Kg7 28. Nc4 Rd4 29. b3 Rd3 30. Rb1 f4 31. g3 Rf3+ 32. Kg2 fxg3 33. hxg3 Rc3 34. Re7+ Kf6 35. Rxa7 Rc2+ 36. Kf1 Kf5 37. Ne3+ Ke4 38. Nxc2 Kf3 39. Nd4+ Kxg3 40. b4 h5 41. b5 h4 42. b6 h3 43. Rh7 h2 44. Rxh2 Kxh2 45. b7 g3 46. b8=Q Kh1 47. Ke2+ Kh2 48. Qxg3+ Kxg3 49. a4 Kf4 50. a5 Ke4 51. a6 Kxd4 52. a7 Kc3 53. a8=Q Kc2 54. Rd1 Kc3 55. Qc8+ Kb3 56. Rd7 Ka3 57. Rb7 Ka2 58. Qa8# 1-0

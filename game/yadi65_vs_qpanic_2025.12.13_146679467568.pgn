@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.13"]
+[Round "?"]
+[White "yadi65"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1876"]
+[BlackElo "1918"]
+[Termination "qpanic won by resignation"]
+[ECO "C53"]
+[EndTime "19:23:08 GMT+0000"]
+[Link "https://www.chess.com/game/live/146679467568"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. c3 d6 6. d4 exd4 7. cxd4 Bb6 8. e5 dxe5 9. dxe5 Qxd1 10. Rxd1 Ng4 11. Bg5 Nxf2 12. Nd4 Nxd1 13. Nd2 Bxd4+ 14. Kf1 0-1

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.10"]
+[Round "?"]
+[White "qpanic"]
+[Black "Olatoks"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1855"]
+[BlackElo "1463"]
+[Termination "qpanic won by resignation"]
+[ECO "B01"]
+[EndTime "19:03:20 GMT+0000"]
+[Link "https://www.chess.com/game/live/157114652023"]
+
+1. e4 d5 2. exd5 e6 3. Nc3 Nf6 4. Bb5+ c6 5. dxc6 bxc6 6. Ba4 Bb4 7. Nge2 O-O 8. O-O Ba6 9. d3 Ng4 10. Nf4 Qh4 11. h3 Nf6 12. Qf3 g5 13. Nfe2 g4 14. Qf4 e5 15. Qxb4 gxh3 16. Qxh4 1-0

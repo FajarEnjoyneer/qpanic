@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.09.29"]
+[Round "?"]
+[White "Rabaelchess_a"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1282"]
+[BlackElo "1361"]
+[Termination "qpanic won by resignation"]
+[ECO "D35"]
+[EndTime "17:48:24 GMT+0000"]
+[Link "https://www.chess.com/game/live/143707601292"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 e6 4. Bf4 Bb4 5. e3 c5 6. Nf3 O-O 7. Qc2 cxd4 8. exd4 Nc6 9. a3 Bxc3+ 10. Qxc3 Ne4 11. Qc2 Qa5+ 12. b4 Nxb4 13. axb4 Qxa1+ 14. Ke2 0-1

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.03"]
+[Round "?"]
+[White "mmmarkovic"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1560"]
+[BlackElo "1622"]
+[Termination "qpanic won by checkmate"]
+[ECO "A07"]
+[EndTime "17:14:58 GMT+0000"]
+[Link "https://www.chess.com/game/live/145074963148"]
+
+1. g3 e5 2. Bg2 Nf6 3. d3 d5 4. Nf3 Nc6 5. O-O Bd6 6. a3 Be6 7. b4 a6 8. Bb2 Qd7 9. Nbd2 h5 10. e3 g5 11. Nxg5 h4 12. Nxe6 fxe6 13. c4 Qh7 14. Qe2 hxg3 15. fxg3 Qxh2+ 16. Kf2 e4 17. Rh1 Qxg3+ 18. Kg1 Rxh1+ 19. Kxh1 O-O-O 20. Bxf6 Rh8+ 21. Bxh8 Qh2# 0-1

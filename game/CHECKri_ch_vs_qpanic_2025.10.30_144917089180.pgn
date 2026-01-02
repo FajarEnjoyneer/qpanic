@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.30"]
+[Round "?"]
+[White "CHECKri_ch"]
+[Black "qpanic"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1590"]
+[BlackElo "1575"]
+[Termination "CHECKri_ch won by resignation"]
+[ECO "D02"]
+[EndTime "15:26:23 GMT+0000"]
+[Link "https://www.chess.com/game/live/144917089180"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Nc6 4. Nf3 e6 5. Nbd2 Bd6 6. Bg3 O-O 7. Ne5 Ne4 8. Bd3 Nxg3 9. hxg3 f6 10. Bxh7+ 1-0

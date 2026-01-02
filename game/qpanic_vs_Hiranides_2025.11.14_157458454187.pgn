@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.14"]
+[Round "?"]
+[White "qpanic"]
+[Black "Hiranides"]
+[Result "1-0"]
+[TimeControl "120+1"]
+[WhiteElo "1562"]
+[BlackElo "1897"]
+[Termination "qpanic won by checkmate"]
+[ECO "D35"]
+[EndTime "18:32:46 GMT+0000"]
+[Link "https://www.chess.com/game/live/157458454187"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 Nf6 5. Nf3 Be7 6. e3 O-O 7. Bd3 c6 8. O-O Bg4 9. h3 Bh5 10. g4 Bg6 11. Ne5 Bxd3 12. Qxd3 Nfd7 13. f4 f6 14. Nf3 Re8 15. Bd2 Na6 16. a3 Nc7 17. b4 Nb6 18. e4 dxe4 19. Nxe4 Bf8 20. Rae1 Nbd5 21. g5 Be7 22. gxf6 Bxf6 23. Ne5 Ne6 24. Kh2 Qc7 25. Rg1 Ndxf4 26. Nxf6+ Kh8 27. Qxh7# 1-0

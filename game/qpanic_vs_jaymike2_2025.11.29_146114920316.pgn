@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.29"]
+[Round "?"]
+[White "qpanic"]
+[Black "jaymike2"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1659"]
+[BlackElo "1559"]
+[Termination "qpanic won by checkmate"]
+[ECO "A21"]
+[EndTime "19:14:47 GMT+0000"]
+[Link "https://www.chess.com/game/live/146114920316"]
+
+1. c4 e5 2. Nc3 f5 3. e4 f4 4. d4 exd4 5. Qh5+ Ke7 6. Nd5+ Kd6 7. Bxf4+ Kc6 8. b4 a6 9. b5+ axb5 10. cxb5+ Kc5 11. Rc1# 1-0

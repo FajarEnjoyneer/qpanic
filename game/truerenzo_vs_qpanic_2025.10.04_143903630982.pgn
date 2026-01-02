@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.04"]
+[Round "?"]
+[White "truerenzo"]
+[Black "qpanic"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1623"]
+[BlackElo "1719"]
+[Termination "qpanic won by checkmate"]
+[ECO "C50"]
+[EndTime "18:33:35 GMT+0000"]
+[Link "https://www.chess.com/game/live/143903630982"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Bg5 h6 7. Bxf6 Qxf6 8. h3 Be6 9. Bxe6 fxe6 10. O-O g5 11. Nh2 h5 12. Nb5 Kd7 13. a4 a6 14. Nc3 g4 15. hxg4 hxg4 16. Nxg4 Qf4 17. g3 Qxg3# 0-1

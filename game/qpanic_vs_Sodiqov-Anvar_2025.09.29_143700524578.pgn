@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.09.29"]
+[Round "?"]
+[White "qpanic"]
+[Black "Sodiqov-Anvar"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1331"]
+[BlackElo "1263"]
+[Termination "qpanic won by checkmate"]
+[ECO "C40"]
+[EndTime "14:42:10 GMT+0000"]
+[Link "https://www.chess.com/game/live/143700524578"]
+
+1. e4 e5 2. Nf3 Bd6 3. Bc4 Nc6 4. Nc3 h6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 Qf6 8. Qd3 Be5 9. Bd2 Ne7 10. O-O O-O 11. f4 Bd4+ 12. Be3 Bxc3 13. bxc3 a6 14. e5 Qf5 15. Qd2 b5 16. Bd3 Qe6 17. Be4 c6 18. Rae1 Nf5 19. a3 Nh4 20. f5 Qxe5 21. Bxh6 Qf6 22. Bg5 Qe5 23. Bxh4 f6 24. Qe2 Qc5+ 25. Kh1 d5 26. Bd3 Bd7 27. Qh5 Be8 28. Rxe8 Raxe8 29. Bxf6 Rxf6 30. g4 d4 31. g5 Qd5+ 32. Kg1 Rxf5 33. Bxf5 dxc3 34. Qxe8# 1-0

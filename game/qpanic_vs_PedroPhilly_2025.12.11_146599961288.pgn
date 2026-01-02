@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.12.11"]
+[Round "?"]
+[White "qpanic"]
+[Black "PedroPhilly"]
+[Result "1-0"]
+[TimeControl "300"]
+[WhiteElo "1654"]
+[BlackElo "1618"]
+[Termination "qpanic won by checkmate"]
+[ECO "B20"]
+[EndTime "20:21:42 GMT+0000"]
+[Link "https://www.chess.com/game/live/146599961288"]
+
+1. c4 c5 2. Nc3 Nc6 3. e4 d6 4. Nf3 e5 5. d3 f5 6. Be2 Nf6 7. Bg5 f4 8. g3 h6 9. Bxf6 Qxf6 10. Nd5 Qf7 11. gxf4 exf4 12. Qd2 g5 13. h3 Be6 14. O-O-O Bxd5 15. exd5 Ne5 16. d4 Nxf3 17. Bxf3 O-O-O 18. dxc5 dxc5 19. Qa5 Kb8 20. Qxd8# 1-0
